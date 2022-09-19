@@ -30,9 +30,9 @@
 		
 		"startapp_app_id": "0",
 		
-		"unity_game_id": "4934724",
-		"unity_banner_placement_id": "banner",
-		"unity_interstitial_placement_id": "video",
+	        "unity_game_id": "4934724",
+		"unity_banner_placement_id": "Banner_Android",
+		"unity_interstitial_placement_id": "Interstitial_Android", 
 		
 		"applovin_banner_ad_unit_id": "YOUR_AD_UNIT_ID",
 		"applovin_interstitial_ad_unit_id": "YOUR_AD_UNIT_ID",
