@@ -21,12 +21,12 @@
 		"ad_type": "applovin",
 		"backup_ads": "none",
 		
-		"admob_publisher_id": "pub-3940256099942544",
-		"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-		"admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-		"admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294",
+		"admob_publisher_id": "pub-3516129193884802",
+		"admob_app_id": "ca-app-pub-3516129193884802~3687683437",
+		"admob_banner_unit_id": "ca-app-pub-3516129193884802/8209382373",
+		"admob_interstitial_unit_id": "ca-app-pub-3516129193884802/3783337610",
+		"admob_native_unit_id": "ca-app-pub-3516129193884802/2957341108",
+		"admob_app_open_ad_unit_id": "ca-app-pub-3516129193884802/1851270850",
 		
 		"startapp_app_id": "0",
 		
