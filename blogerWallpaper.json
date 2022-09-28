@@ -34,9 +34,9 @@
 		"unity_banner_placement_id": "Banner_Android",
 		"unity_interstitial_placement_id": "Interstitial_Android", 
 		
-		"applovin_banner_ad_unit_id": "YOUR_AD_UNIT_ID",
-		"applovin_interstitial_ad_unit_id": "YOUR_AD_UNIT_ID",
-		"applovin_native_ad_manual_unit_id": "YOUR_AD_UNIT_ID",
+		"applovin_banner_ad_unit_id": "1e6b76fdb0c63cf9",
+		"applovin_interstitial_ad_unit_id": "f2f68e3fb07f7642",
+		"applovin_native_ad_manual_unit_id": "2a27f75f9524c222",
 
 		
 		"mopub_banner_ad_unit_id": "b195f8dd8ded45fe847ad89ed1d016da",
