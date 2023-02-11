@@ -1,0 +1,95 @@
+{
+	"blog": {
+		"blogger_id": "8384281101067610677",
+		"api_key": "AIzaSyDDSXrNw9TEj6c3wgPNXF8cVuCfxRL6nmA"
+	},
+	"app": {
+		"status": "1",
+		"more_apps_url": "https://play.google.com/store/apps/developer?id=anime+dev",
+		"redirect_url": "",
+		"privacy_policy_url": "https://sites.google.com/view/animedevaloper/home",
+		"display_wallpaper_name": "true",
+		"center_crop_wallpaper": "true",
+		"custom_label_list": "false"
+	},
+	"notification": {
+		"fcm_notification_topic": "blogger_wallpaper_app_topic",
+		"onesignal_app_id": "0c5c4c8b-77a8-45d5-a6d8-e300d3d56495"
+	},
+	"ads": {
+		"ad_status": "1",
+		"ad_type": "unity",
+		"backup_ads": "none",
+
+		"admob_publisher_id": "pub-3516129193884802",
+		"admob_app_id": "ca-app-pub-3516129193884802~3687683437",
+		"admob_banner_unit_id": "ca-app-pub-3516129193884802/8209382373",
+		"admob_interstitial_unit_id": "ca-app-pub-3516129193884802/3783337610",
+		"admob_native_unit_id": "ca-app-pub-3516129193884802/2957341108",
+		"admob_app_open_ad_unit_id": "ca-app-pub-3516129193884802/1851270850",
+
+		"startapp_app_id": "0",
+
+	        "unity_game_id": "4934724",
+		"unity_banner_placement_id": "Banner_Android",
+		"unity_interstitial_placement_id": "Interstitial_Android", 
+
+		"applovin_banner_ad_unit_id": "1e6b76fdb0c63cf9",
+		"applovin_interstitial_ad_unit_id": "f2f68e3fb07f7642",
+		"applovin_native_ad_manual_unit_id": "2a27f75f9524c222",
+
+
+		"mopub_banner_ad_unit_id": "b195f8dd8ded45fe847ad89ed1d016da",
+		"mopub_interstitial_ad_unit_id": "24534e1901884e398f1253216226017e",
+		"interstitial_ad_interval": 3
+	},
+	"labels": [
+	    {
+			"term": "Mixt",
+			"image": "https://i.ibb.co/kcsWQWL/cat-motorola.jpg"
+		},
+		{
+			"term": "Hunter x Hunter",
+			"image": "https://i.ibb.co/T0ZVwjy/cat-oppo.jpg"
+		},
+		{
+			"term": "Naruto",
+			"image": "https://i.ibb.co/RcpbHmb/cat-samsung.jpg"
+		},
+		{
+			"term": "One piece",
+			"image": "https://i.ibb.co/prG2X8Z/cat-android.jpg"
+		},
+		{
+			"term": "Attack on titan",
+			"image": "https://i.ibb.co/qkKMSZ0/cat-google.jpg"
+		},
+		{
+			"term": "Bleach",
+			"image": "https://i.ibb.co/6tDKBKV/cat-realme.jpg"
+		},
+		{
+			"term": "Romance",
+			"image": "https://i.ibb.co/Mhj3sZP/cat-nokia.jpg"
+		},
+		{
+			"term": "Demon slayer",
+			"image": "https://i.ibb.co/JrHkds9/cat-vivo.jpg"
+		},
+		{
+			"term": "Black clover",
+			"image": "https://i.ibb.co/7YRDywZ/cat-live-wallpaper.jpg"
+		},
+		{
+			"term": "Sports",
+			"image": "https://i.ibb.co/wp6mhZv/cat-lenovo.jpg"
+		},
+		{
+			"term": "Anime girls",
+			"image": "https://i.ibb.co/1b74h0S/cat-iphone.jpg"
+		},
+		{
+			"term": "Manga colored",
+			"image": "https://i.ibb.co/RjkDq5r/cat-asus.jpg"
+		}
+	]
