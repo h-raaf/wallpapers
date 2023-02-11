@@ -5,7 +5,7 @@
     "ad_status": "1",
     //Supported main ads value: admob, google_ad_manager, fan, startapp, unity, applovin_max, applovin_discovery or ironsource
 	
-    "ad_type": "applovin_max",
+    "ad_type": "fan",
     "backup_ads": "none",
 	
     "admob_publisher_id": "pub-3940256099942544",
@@ -42,61 +42,8 @@
 	
     "interstitial_ad_interval": 3
   },
+	
   "wallpaper": [
-    {
-      "image_id": "1",
-      "image_name": "first",
-      "image_thumb": "https://wallpaper.dog/large/966134.jpg",
-      "image_upload": "https://wallpaper.dog/large/966134.jpg",
-      "image_url": "https://wallpaper.dog/large/966134.jpg",
-      "type": "upload",
-      "resolution": "152*546",
-      "size": "228.72 KB",
-      "mime": "image/jpeg",
-      "views": 120,
-      "downloads": 5,
-      "featured": "yes",
-      "tags": "google,pixel 5,stock wallpaper",
-      "category_id": "2",
-      "category_name": "Google",
-      "last_update": "2021-09-25 10:47:39"
-    },    
-	  {
-      "image_id": "1",
-      "image_name": "first",
-      "image_thumb": "https://www.dropbox.com/s/208j7txd7dz9xie/wallVideo.mp4?dl=1",
-      "image_upload": "https://www.dropbox.com/s/208j7txd7dz9xie/wallVideo.mp4?dl=1",
-      "image_url": "https://www.dropbox.com/s/208j7txd7dz9xie/wallVideo.mp4?dl=1",
-      "type": "url",
-      "resolution": "152*546",
-      "size": "228.72 KB",
-      "mime": "application/octet-stream",
-      "views": 120,
-      "downloads": 5,
-      "featured": "no",
-      "tags": "google,pixel 5,stock wallpaper",
-      "category_id": "1",
-      "category_name": "football",
-      "last_update": "2021-09-29 10:47:39"
-    },
-    {
-      "image_id": "1",
-      "image_name": "gif",
-      "image_thumb": "https://www.dropbox.com/s/k9b34jn1ych6vd6/giphy.gif?dl=1",
-      "image_upload": "https://www.dropbox.com/s/k9b34jn1ych6vd6/giphy.gif?dl=1",
-      "image_url": "https://www.dropbox.com/s/k9b34jn1ych6vd6/giphy.gif?dl=1",
-      "type": "url",
-      "resolution": "152*546",
-      "size": "228.72 KB",
-      "mime": "gif",
-      "views": 120,
-      "downloads": 5,
-      "featured": "yes",
-      "tags": "google,pixel 5,stock wallpaper",
-      "category_id": "1",
-      "category_name": "football",
-      "last_update": "2021-09-25 10:47:39"
-    },
 	  	  {
       "image_id": "2",
       "image_name": "Messi",
@@ -114,30 +61,12 @@
       "category_id": "2",
       "category_name": "football",
       "last_update": "2021-09-29 10:47:39"
-    },
-	    	  {
-      "image_id": "2",
-      "image_name": "Ronaldo",
-      "image_thumb": "https://imageio.forbes.com/specials-images/imageserve/627bd291633f3fbbcda36428/0x0.jpg?format=jpg&crop=2057,2059,x918,y85,safe&height=416&width=416&fit=bounds",
-      "image_upload": "https://imageio.forbes.com/specials-images/imageserve/627bd291633f3fbbcda36428/0x0.jpg?format=jpg&crop=2057,2059,x918,y85,safe&height=416&width=416&fit=bounds",
-      "image_url": "https://imageio.forbes.com/specials-images/imageserve/627bd291633f3fbbcda36428/0x0.jpg?format=jpg&crop=2057,2059,x918,y85,safe&height=416&width=416&fit=bounds",
-      "type": "url",
-      "resolution": "152*546",
-      "size": "228.72 KB",
-      "mime": "application/octet-stream",
-      "views": 120,
-      "downloads": 5,
-      "featured": "no",
-      "tags": "google,pixel 5,stock wallpaper",
-      "category_id": "2",
-      "category_name": "football",
-      "last_update": "2021-09-29 10:47:39"
     }
   ],
   "category": [
     {
       "category_id": "1",
-      "category_name": "Google",
+      "category_name": "ANIME",
       "category_image": "https://www.dropbox.com/s/kuw59y0nk4fajpw/54.jpg?dl=1",
       "total_wallpaper": "2"
     },
