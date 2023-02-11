@@ -1,96 +1,339 @@
 {
-	"blog": {
-		"blogger_id": "8384281101067610677",
-		"api_key": "AIzaSyDDSXrNw9TEj6c3wgPNXF8cVuCfxRL6nmA"
-	},
-	"app": {
-		"status": "1",
-		"more_apps_url": "https://play.google.com/store/apps/developer?id=anime+dev",
-		"redirect_url": "",
-		"privacy_policy_url": "https://sites.google.com/view/animedevaloper/home",
-		"display_wallpaper_name": "true",
-		"center_crop_wallpaper": "true",
-		"custom_label_list": "false"
-	},
-	"notification": {
-		"fcm_notification_topic": "blogger_wallpaper_app_topic",
-		"onesignal_app_id": "0c5c4c8b-77a8-45d5-a6d8-e300d3d56495"
-	},
-	"ads": {
-		"ad_status": "1",
-		"ad_type": "unity",
-		"backup_ads": "none",
-		
-		"admob_publisher_id": "pub-3516129193884802",
-		"admob_app_id": "ca-app-pub-3516129193884802~3687683437",
-		"admob_banner_unit_id": "ca-app-pub-3516129193884802/8209382373",
-		"admob_interstitial_unit_id": "ca-app-pub-3516129193884802/3783337610",
-		"admob_native_unit_id": "ca-app-pub-3516129193884802/2957341108",
-		"admob_app_open_ad_unit_id": "ca-app-pub-3516129193884802/1851270850",
-		
-		"startapp_app_id": "0",
-		
-	        "unity_game_id": "4934724",
-		"unity_banner_placement_id": "Banner_Android",
-		"unity_interstitial_placement_id": "Interstitial_Android", 
-		
-		"applovin_banner_ad_unit_id": "1e6b76fdb0c63cf9",
-		"applovin_interstitial_ad_unit_id": "f2f68e3fb07f7642",
-		"applovin_native_ad_manual_unit_id": "2a27f75f9524c222",
-
-		
-		"mopub_banner_ad_unit_id": "b195f8dd8ded45fe847ad89ed1d016da",
-		"mopub_interstitial_ad_unit_id": "24534e1901884e398f1253216226017e",
-		"interstitial_ad_interval": 3
-	},
-	"labels": [
-	    {
-			"term": "Mixt",
-			"image": "https://i.ibb.co/kcsWQWL/cat-motorola.jpg"
-		},
-		{
-			"term": "Hunter x Hunter",
-			"image": "https://i.ibb.co/T0ZVwjy/cat-oppo.jpg"
-		},
-		{
-			"term": "Naruto",
-			"image": "https://i.ibb.co/RcpbHmb/cat-samsung.jpg"
-		},
-		{
-			"term": "One piece",
-			"image": "https://i.ibb.co/prG2X8Z/cat-android.jpg"
-		},
-		{
-			"term": "Attack on titan",
-			"image": "https://i.ibb.co/qkKMSZ0/cat-google.jpg"
-		},
-		{
-			"term": "Bleach",
-			"image": "https://i.ibb.co/6tDKBKV/cat-realme.jpg"
-		},
-		{
-			"term": "Romance",
-			"image": "https://i.ibb.co/Mhj3sZP/cat-nokia.jpg"
-		},
-		{
-			"term": "Demon slayer",
-			"image": "https://i.ibb.co/JrHkds9/cat-vivo.jpg"
-		},
-		{
-			"term": "Black clover",
-			"image": "https://i.ibb.co/7YRDywZ/cat-live-wallpaper.jpg"
-		},
-		{
-			"term": "Sports",
-			"image": "https://i.ibb.co/wp6mhZv/cat-lenovo.jpg"
-		},
-		{
-			"term": "Anime girls",
-			"image": "https://i.ibb.co/1b74h0S/cat-iphone.jpg"
-		},
-		{
-			"term": "Manga colored",
-			"image": "https://i.ibb.co/RjkDq5r/cat-asus.jpg"
-		}
-	]
+  "Cofig": {
+    "PrivacyPolicy": "https://www.covershootstudio.xyz/privacy-policy.html",
+    "MoreApp": "https://play.google.com/store/apps/developer?id=Cover+Shoot+Studio",
+    "ad_status": "1",
+    //Supported main ads value: admob, google_ad_manager, fan, startapp, unity, applovin_max, applovin_discovery or ironsource
+	
+    "ad_type": "fan",
+    "backup_ads": "none",
+	
+    "admob_publisher_id": "pub-3940256099942544",
+    "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+    "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294",
+	
+    "ad_manager_banner_unit_id": "/6499/example/banner",
+    "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+    "ad_manager_native_unit_id": "/6499/example/native",
+    "ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
+	
+    "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+    "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+    "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+	
+    "startapp_app_id": "0",
+	
+    "unity_game_id": "4089993",
+    "unity_banner_placement_id": "banner",
+    "unity_interstitial_placement_id": "video",
+	
+    "applovin_banner_ad_unit_id": "0",
+    "applovin_interstitial_ad_unit_id": "0",
+    "applovin_native_ad_manual_unit_id": "0",
+    "applovin_app_open_ad_unit_id": "0",
+    "applovin_banner_zone_id": "0",
+    "applovin_interstitial_zone_id": "0",
+	
+    "ironsource_app_key": "85460dcd",
+    "ironsource_banner_placement_name": "DefaultBanner",
+    "ironsource_interstitial_placement_name": "DefaultInterstitial",
+	
+    "interstitial_ad_interval": 3
+  },
+  "wallpaper": [
+    {
+      "image_id": "1",
+      "image_name": "first",
+      "image_thumb": "https://wallpaper.dog/large/966134.jpg",
+      "image_upload": "https://wallpaper.dog/large/966134.jpg",
+      "image_url": "https://wallpaper.dog/large/966134.jpg",
+      "type": "upload",
+      "resolution": "152*546",
+      "size": "228.72 KB",
+      "mime": "image/jpeg",
+      "views": 120,
+      "downloads": 5,
+      "featured": "yes",
+      "tags": "google,pixel 5,stock wallpaper",
+      "category_id": "2",
+      "category_name": "Google",
+      "last_update": "2021-09-25 10:47:39"
+    },
+    {
+      "image_id": "1",
+      "image_name": "first",
+      "image_thumb": "https://wallpaper.dog/large/20477158.jpg",
+      "image_upload": "https://wallpaper.dog/large/20477158.jpg",
+      "image_url": "https://wallpaper.dog/large/20477158.jpg",
+      "type": "upload",
+      "resolution": "152*546",
+      "size": "228.72 KB",
+      "mime": "image/jpeg",
+      "views": 120,
+      "downloads": 5,
+      "featured": "yes",
+      "tags": "google,pixel 5,stock wallpaper",
+      "category_id": "2",
+      "category_name": "Google",
+      "last_update": "2021-10-25 10:47:39"
+    },
+    {
+      "image_id": "1",
+      "image_name": "first",
+      "image_thumb": "https://www.dropbox.com/s/208j7txd7dz9xie/wallVideo.mp4?dl=1",
+      "image_upload": "https://www.dropbox.com/s/208j7txd7dz9xie/wallVideo.mp4?dl=1",
+      "image_url": "https://www.dropbox.com/s/208j7txd7dz9xie/wallVideo.mp4?dl=1",
+      "type": "url",
+      "resolution": "152*546",
+      "size": "228.72 KB",
+      "mime": "application/octet-stream",
+      "views": 120,
+      "downloads": 5,
+      "featured": "no",
+      "tags": "google,pixel 5,stock wallpaper",
+      "category_id": "1",
+      "category_name": "football",
+      "last_update": "2021-09-29 10:47:39"
+    },
+    {
+      "image_id": "1",
+      "image_name": "gif",
+      "image_thumb": "https://www.dropbox.com/s/k9b34jn1ych6vd6/giphy.gif?dl=1",
+      "image_upload": "https://www.dropbox.com/s/k9b34jn1ych6vd6/giphy.gif?dl=1",
+      "image_url": "https://www.dropbox.com/s/k9b34jn1ych6vd6/giphy.gif?dl=1",
+      "type": "url",
+      "resolution": "152*546",
+      "size": "228.72 KB",
+      "mime": "gif",
+      "views": 120,
+      "downloads": 5,
+      "featured": "yes",
+      "tags": "google,pixel 5,stock wallpaper",
+      "category_id": "1",
+      "category_name": "football",
+      "last_update": "2021-09-25 10:47:39"
+    },
+    {
+      "image_id": "1",
+      "image_name": "first",
+      "image_thumb": "https://wallpaper.dog/large/20477158.jpg",
+      "image_upload": "https://wallpaper.dog/large/20477158.jpg",
+      "image_url": "https://wallpaper.dog/large/20477158.jpg",
+      "type": "upload",
+      "resolution": "152*546",
+      "size": "228.72 KB",
+      "mime": "image/jpeg",
+      "views": 120,
+      "downloads": 5,
+      "featured": "yes",
+      "tags": "google,pixel 5,stock wallpaper",
+      "category_id": "2",
+      "category_name": "Google",
+      "last_update": "2021-10-25 10:47:39"
+    },
+    {
+      "image_id": "1",
+      "image_name": "first",
+      "image_thumb": "https://www.dropbox.com/s/208j7txd7dz9xie/wallVideo.mp4?dl=1",
+      "image_upload": "https://www.dropbox.com/s/208j7txd7dz9xie/wallVideo.mp4?dl=1",
+      "image_url": "https://www.dropbox.com/s/208j7txd7dz9xie/wallVideo.mp4?dl=1",
+      "type": "url",
+      "resolution": "152*546",
+      "size": "228.72 KB",
+      "mime": "application/octet-stream",
+      "views": 120,
+      "downloads": 5,
+      "featured": "no",
+      "tags": "google,pixel 5,stock wallpaper",
+      "category_id": "1",
+      "category_name": "football",
+      "last_update": "2021-09-29 10:47:39"
+    },
+    {
+      "image_id": "1",
+      "image_name": "gif",
+      "image_thumb": "https://www.dropbox.com/s/k9b34jn1ych6vd6/giphy.gif?dl=1",
+      "image_upload": "https://www.dropbox.com/s/k9b34jn1ych6vd6/giphy.gif?dl=1",
+      "image_url": "https://www.dropbox.com/s/k9b34jn1ych6vd6/giphy.gif?dl=1",
+      "type": "url",
+      "resolution": "152*546",
+      "size": "228.72 KB",
+      "mime": "gif",
+      "views": 120,
+      "downloads": 5,
+      "featured": "yes",
+      "tags": "google,pixel 5,stock wallpaper",
+      "category_id": "1",
+      "category_name": "football",
+      "last_update": "2021-09-25 10:47:39"
+    },
+    {
+      "image_id": "1",
+      "image_name": "first",
+      "image_thumb": "https://wallpaper.dog/large/20477158.jpg",
+      "image_upload": "https://wallpaper.dog/large/20477158.jpg",
+      "image_url": "https://wallpaper.dog/large/20477158.jpg",
+      "type": "upload",
+      "resolution": "152*546",
+      "size": "228.72 KB",
+      "mime": "image/jpeg",
+      "views": 120,
+      "downloads": 5,
+      "featured": "yes",
+      "tags": "google,pixel 5,stock wallpaper",
+      "category_id": "2",
+      "category_name": "Google",
+      "last_update": "2021-10-25 10:47:39"
+    },
+    {
+      "image_id": "1",
+      "image_name": "first",
+      "image_thumb": "https://www.dropbox.com/s/208j7txd7dz9xie/wallVideo.mp4?dl=1",
+      "image_upload": "https://www.dropbox.com/s/208j7txd7dz9xie/wallVideo.mp4?dl=1",
+      "image_url": "https://www.dropbox.com/s/208j7txd7dz9xie/wallVideo.mp4?dl=1",
+      "type": "url",
+      "resolution": "152*546",
+      "size": "228.72 KB",
+      "mime": "application/octet-stream",
+      "views": 120,
+      "downloads": 5,
+      "featured": "no",
+      "tags": "google,pixel 5,stock wallpaper",
+      "category_id": "1",
+      "category_name": "football",
+      "last_update": "2021-09-29 10:47:39"
+    },
+    {
+      "image_id": "1",
+      "image_name": "gif",
+      "image_thumb": "https://www.dropbox.com/s/k9b34jn1ych6vd6/giphy.gif?dl=1",
+      "image_upload": "https://www.dropbox.com/s/k9b34jn1ych6vd6/giphy.gif?dl=1",
+      "image_url": "https://www.dropbox.com/s/k9b34jn1ych6vd6/giphy.gif?dl=1",
+      "type": "url",
+      "resolution": "152*546",
+      "size": "228.72 KB",
+      "mime": "gif",
+      "views": 120,
+      "downloads": 5,
+      "featured": "yes",
+      "tags": "google,pixel 5,stock wallpaper",
+      "category_id": "1",
+      "category_name": "football",
+      "last_update": "2021-09-25 10:47:39"
+    },
+    {
+      "image_id": "1",
+      "image_name": "first",
+      "image_thumb": "https://wallpaper.dog/large/20477158.jpg",
+      "image_upload": "https://wallpaper.dog/large/20477158.jpg",
+      "image_url": "https://wallpaper.dog/large/20477158.jpg",
+      "type": "upload",
+      "resolution": "152*546",
+      "size": "228.72 KB",
+      "mime": "image/jpeg",
+      "views": 120,
+      "downloads": 5,
+      "featured": "yes",
+      "tags": "google,pixel 5,stock wallpaper",
+      "category_id": "2",
+      "category_name": "Google",
+      "last_update": "2021-10-25 10:47:39"
+    },
+    {
+      "image_id": "1",
+      "image_name": "first",
+      "image_thumb": "https://www.dropbox.com/s/208j7txd7dz9xie/wallVideo.mp4?dl=1",
+      "image_upload": "https://www.dropbox.com/s/208j7txd7dz9xie/wallVideo.mp4?dl=1",
+      "image_url": "https://www.dropbox.com/s/208j7txd7dz9xie/wallVideo.mp4?dl=1",
+      "type": "url",
+      "resolution": "152*546",
+      "size": "228.72 KB",
+      "mime": "application/octet-stream",
+      "views": 120,
+      "downloads": 5,
+      "featured": "no",
+      "tags": "google,pixel 5,stock wallpaper",
+      "category_id": "1",
+      "category_name": "football",
+      "last_update": "2021-09-29 10:47:39"
+    },
+    {
+      "image_id": "1",
+      "image_name": "gif",
+      "image_thumb": "https://www.dropbox.com/s/k9b34jn1ych6vd6/giphy.gif?dl=1",
+      "image_upload": "https://www.dropbox.com/s/k9b34jn1ych6vd6/giphy.gif?dl=1",
+      "image_url": "https://www.dropbox.com/s/k9b34jn1ych6vd6/giphy.gif?dl=1",
+      "type": "url",
+      "resolution": "152*546",
+      "size": "228.72 KB",
+      "mime": "gif",
+      "views": 120,
+      "downloads": 5,
+      "featured": "yes",
+      "tags": "google,pixel 5,stock wallpaper",
+      "category_id": "1",
+      "category_name": "football",
+      "last_update": "2021-09-25 10:47:39"
+    },
+    {
+      "image_id": "1",
+      "image_name": "gif",
+      "image_thumb": "https://www.dropbox.com/s/k9b34jn1ych6vd6/giphy.gif?dl=1",
+      "image_upload": "https://www.dropbox.com/s/k9b34jn1ych6vd6/giphy.gif?dl=1",
+      "image_url": "https://www.dropbox.com/s/k9b34jn1ych6vd6/giphy.gif?dl=1",
+      "type": "url",
+      "resolution": "152*546",
+      "size": "228.72 KB",
+      "mime": "gif",
+      "views": 120,
+      "downloads": 5,
+      "featured": "yes",
+      "tags": "google,pixel 5,stock wallpaper",
+      "category_id": "1",
+      "category_name": "football",
+      "last_update": "2021-09-25 10:47:39"
+    }
+  ],
+  "category": [
+    {
+      "category_id": "1",
+      "category_name": "Google",
+      "category_image": "https://www.dropbox.com/s/kuw59y0nk4fajpw/54.jpg?dl=1",
+      "total_wallpaper": "2"
+    },
+    {
+      "category_id": "2",
+      "category_name": "football",
+      "category_image": "https://www.dropbox.com/s/0pbqyy4d860hoyc/rm3.jpg?dl=1",
+      "total_wallpaper": "2"
+    }
+  ],
+  "menu": [
+    {
+      "menu_id": "1",
+      "menu_title": "Recent",
+      "menu_order": "recent",
+      "menu_filter": "wallpaper"
+    },
+    {
+      "menu_id": "2",
+      "menu_title": "Featured",
+      "menu_order": "featured",
+      "menu_filter": "both"
+    },
+    {
+      "menu_id": "3",
+      "menu_title": "Popular",
+      "menu_order": "popular",
+      "menu_filter": "wallpaper"
+    },
+    {
+      "menu_id": "4",
+      "menu_title": "Live Wallpaper",
+      "menu_order": "live",
+      "menu_filter": "live"
+    }
+  ]
 }
