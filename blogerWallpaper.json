@@ -46,7 +46,7 @@
   "wallpaper": [
 	  	  {
       "image_id": "1",
-      "image_name": "img1",
+      "image_name": "",
       "image_thumb": "https://mrkzgulfup.com/uploads/167625135318371.jpg",
       "image_upload": "https://mrkzgulfup.com/uploads/167625135318371.jpg",
       "image_url": "https://mrkzgulfup.com/uploads/167625135318371.jpg",
@@ -64,7 +64,7 @@
     },
 	    	  {
       "image_id": "2",
-      "image_name": "img2",
+      "image_name": "",
       "image_thumb": "https://mrkzgulfup.com/uploads/167625135322032.jpg",
       "image_upload": "https://mrkzgulfup.com/uploads/167625135322032.jpg",
       "image_url": "https://mrkzgulfup.com/uploads/167625135322032.jpg",
@@ -82,10 +82,10 @@
     },
 	    	  {
       "image_id": "3",
-      "image_name": "img3",
-      "image_thumb": "https://mrkzgulfup.com/uploads/167625135324943.jpg",
-      "image_upload": "https://mrkzgulfup.com/uploads/167625135324943.jpg",
-      "image_url": "https://mrkzgulfup.com/uploads/167625135324943.jpg",
+      "image_name": "",
+      "image_thumb": "",
+      "image_upload": "",
+      "image_url": "https://mrkzgulfup.com/uploads/167625135327134.jpg",
       "type": "url",
       "resolution": "152*546",
       "size": "228.72 KB",
