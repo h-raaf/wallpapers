@@ -1308,16 +1308,16 @@
 	  	        {
       "image_id": "",
       "image_name": "",
-      "image_thumb": "https://v.pinimg.com/videos/mc/720p/6a/8e/91/6a8e91ff6a2f29e7d33a892ae77f6cb8.mp4",
-      "image_upload": "https://v.pinimg.com/videos/mc/720p/6a/8e/91/6a8e91ff6a2f29e7d33a892ae77f6cb8.mp4",
-      "image_url": "https://v.pinimg.com/videos/mc/720p/6a/8e/91/6a8e91ff6a2f29e7d33a892ae77f6cb8.mp4",
-      "type": "url",
+      "image_thumb": "https://i.pinimg.com/videos/thumbnails/originals/6a/8e/91/6a8e91ff6a2f29e7d33a892ae77f6cb8.0000000.jpg",
+      "image_upload": "https://i.pinimg.com/videos/thumbnails/originals/6a/8e/91/6a8e91ff6a2f29e7d33a892ae77f6cb8.0000000.jpg",
+      "image_url": "https://i.pinimg.com/videos/thumbnails/originals/6a/8e/91/6a8e91ff6a2f29e7d33a892ae77f6cb8.0000000.jpg",
+      "type": "",
       "resolution": "152*546",
       "size": "228.72 KB",
-      "mime": "gif",
+      "mime": "application/octet-stream",
       "views": 120,
       "downloads": 5,
-      "featured": "yes",
+      "featured": "no",
       "tags": "google,pixel 5,stock wallpaper",
       "category_id": "8",
       "category_name": "Live",
@@ -1370,7 +1370,7 @@
 	    {
       "category_id": "8",
       "category_name": "Live",
-      "category_image": "https://i.pinimg.com/564x/22/83/b3/2283b36304c156358f533e139fee96e3.jpg",
+      "category_image": "https://v.pinimg.com/videos/mc/720p/6a/8e/91/6a8e91ff6a2f29e7d33a892ae77f6cb8.mp4",
       "total_wallpaper": "+10"
     }
   ],
