@@ -1319,8 +1319,8 @@
       "downloads": 5,
       "featured": "yes",
       "tags": "google,pixel 5,stock wallpaper",
-      "category_id": "4",
-      "category_name": "Gifs",
+      "category_id": "8",
+      "category_name": "Live",
       "last_update": "2021-09-25 10:47:39"
     }
 ],
@@ -1364,6 +1364,12 @@
     {
       "category_id": "7",
       "category_name": "Cosplay",
+      "category_image": "https://i.pinimg.com/564x/22/83/b3/2283b36304c156358f533e139fee96e3.jpg",
+      "total_wallpaper": "+10"
+    },
+	    {
+      "category_id": "8",
+      "category_name": "Live",
       "category_image": "https://i.pinimg.com/564x/22/83/b3/2283b36304c156358f533e139fee96e3.jpg",
       "total_wallpaper": "+10"
     }
