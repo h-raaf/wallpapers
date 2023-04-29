@@ -1,6 +1,6 @@
 {
    "apps": {
-      "status": true,
+      "status": false,
       "redirect_url": ""
    },
    "wordpress": {
